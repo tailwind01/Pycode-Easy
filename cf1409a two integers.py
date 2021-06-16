@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 16 16:54:46 2021
 
-@author: sai
+@author: tailwind
 """
 nc = int(input())
 for _ in range(nc):
