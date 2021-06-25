@@ -17,5 +17,5 @@ for i in range(l):
 
 maxnum = max(inpl) #naturally, number with largest ln_ans is largest
 
-print(inpl.index(maxmodulo)+1)
+print(inpl.index(maxnum)+1)
     
